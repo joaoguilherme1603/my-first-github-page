@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+}
+    h1 {
+        color: white;
+    }
+    h3 {
+        color: red;
+
+    }
+    h5 {
+        color: blue;
+    }
+    li {
+        color: green;
+    }
